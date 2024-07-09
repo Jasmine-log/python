@@ -1,7 +1,8 @@
 # Python Tutorial
 
 ## Textbook
-Jump to python by EungYong Park.
+**Jump to python** by EungYong Park.
+
 
 ## jump-to-python-master
 from https://github.com/alstn2468/jump-to-python
